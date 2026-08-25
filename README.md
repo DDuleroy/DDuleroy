@@ -1,6 +1,6 @@
 ## I'm David Duleroy, nice to meet U!
 
-<!--
+
 I work at the intersection of AI, creative systems, publishing, human–AI interaction and experimental software design.
 
 My main focus is on tools and methods that help people preserve intent, context and continuity while working across different AI systems..
@@ -60,4 +60,3 @@ I increasingly work on a question that sits between design, software and AI rese
 🔬 Independent R&D
 🎨 Design, publishing & creative technology
 
--->
