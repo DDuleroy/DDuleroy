@@ -10,6 +10,8 @@ My main focus is on tools and methods that help people preserve intent, context 
 
 🧬 **Genome**
 An inter-provider continuity module designed to help users transfer, preserve and resume AI conversations across different models and environments with the idea of managing cogintive state.
+And a persistent representation
+of what must survive transformation.
 
 🌐 **FlyIA**
 An experimental environment for multi-AI workflows, cross-provider interaction, continuity, user control and structured collaboration between humans and AI systems.
